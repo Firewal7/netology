@@ -1,2 +1,2 @@
 Hello netology
-dsfsdg
+conflict
