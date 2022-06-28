@@ -1,2 +1,1 @@
-Hello netology
-conflict
+Hello World
